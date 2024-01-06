@@ -1,0 +1,12 @@
+.WhatsApp {
+  font-size: 4.375rem;
+  color: green;
+  margin-left: 113.75rem;
+  position: fixed;
+  margin-top: 21.875rem;
+}
+
+.WhatsApp:hover {
+  cursor: pointer;
+}
+

@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: #eeeeee;
+    margin-top: 10px;
+}
+
+.ContainerMenu {
+    display: flex;
+    position: fixed;
+    background-color: rgb(40, 40, 161);
+    height: 70px;
+    width: 100%;
+    justify-content: center;
+}
+
+.Dente {
+    color: #eeeeee;
+    font-size: 30px;
+    margin-top: 18px;
+    margin-right: 10px;
+}
+
