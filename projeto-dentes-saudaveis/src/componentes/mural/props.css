@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+}
+
+p {
+    color: white;
+    font-weight: 500;
+}
+
+span {
+    color: white;
+    margin-left: 10px;
+    padding: 4px;
+}
+
+.container:hover , .Props-:hover {
+    cursor: pointer;
+    color:  rgb(255, 217, 0);
+    transition: 0.2s;
+}
+
+
