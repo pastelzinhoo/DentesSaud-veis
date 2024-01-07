@@ -10,3 +10,19 @@
   cursor: pointer;
 }
 
+.Container-One-Conteudo {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.Infos-Centraliza {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 100px;
+}
+
+
+
+
+
