@@ -22,7 +22,25 @@
   margin-top: 100px;
 }
 
+.titulo-card {
+  color: black;
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
 
+.Card-Centraliza {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 150px;
+}
+
+.Card-Pessoas {
+  border: 1px solid rgb(230, 230, 230);
+  width: 400px;
+  height: 400px;
+  margin-top: 100px;
+}
 
 
 

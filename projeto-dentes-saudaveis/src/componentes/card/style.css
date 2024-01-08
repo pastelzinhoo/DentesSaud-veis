@@ -1,5 +1,17 @@
-.Card-pessoas {
-    width: 300px;
-    height: 300px;
-    border: 1px solid rgb(230, 230, 230);
+.Feedback-Card {
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
 }
+
+.Titulo-Card {
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.Imagem-Card {
+    width: 100%;
+    height: 70%;
+}
+

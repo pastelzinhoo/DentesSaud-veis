@@ -1,12 +1,13 @@
 import React from "react";
 import "./style.css";
-import Homem  from "./image/homem.png"
 
-export default function Card() {
+export default function Card(props) {
     return(
-        <div>
-            <div className="Card-pessoas">
-                <img src={Homem} alr="Cliente Homem" title="Marco Vilela cliente"></img>
+        <div> 
+            <div className="Card-Pessoas">
+                <img src={props.imagem} alt="Cliente" className="Imagem-Card"></img>
+                <h3 className="Titulo-Card">{props.nome}</h3>
+                <p className="Feedback-Card">{props.feedback}</p>
             </div>
         </div>
     );
