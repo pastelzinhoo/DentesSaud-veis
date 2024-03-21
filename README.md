@@ -1,4 +1,4 @@
-# 🦷 Dentes Saudáveis
+![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/095cfcdc-78d5-4c7f-b6d2-db6b096fb6a8)# 🦷 Dentes Saudáveis
 
 ## 🟢 Status: Finalizado 📅 Publicado: 09/01/2024 🧍‍♂️ Programador: muuhlirø
 
@@ -63,8 +63,9 @@ export default App;
 
 
 # 👨‍💻 Componente Mural
-#### Vamos conhecer as partes deste site começando pela parte do Mural onde ficam algumas informações e a autopropaganda da empresa.
-![Componente Mural](https://media.discordapp.net/attachments/1194334339954131054/1194336151566295167/image.png?ex=65affb38&is=659d8638&hm=c24105d175f66842b7e78d05abbd4440e785a385909a2e702470cf1c4b8ce281&=&format=webp&quality=lossless&width=1404&height=328)
+#### Vamos conhecer as partes deste site começando pela parte do Mural onde ficam algumas informações e a autopropaganda da empresa. 
+![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/8c5e53b3-66df-4588-ba84-4d5d45891c27)
+
 
 #### Confira como ele foi feito abaixo: 
 
@@ -109,14 +110,16 @@ export default function Texto(props) {           // Componente Texto que recebe 
 ```
 
 #### Um detalhe significativo dentro da aplicação web é que, se o usuário passar o mouse sobre as informações fornecidas, isso fará com que a aplicação tenha uma interação de mudança de cor automaticamente. O usuário entenderá que ali é um elemento no qual ele pode clicar para saber mais sobre o serviço que a empresa oferece.
-![mural](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/072d2571-878a-4db9-8627-9251bd6b57a2)
+![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/1771bc35-8fe2-4bdc-a4c2-5d5254dd658e)
+
 
 ---
 
 
 # 👨‍💻 Componente Info | Imagens e Informações Aparelho Dental
 #### A imagem foi inserida sem utilizar nenhum tipo de componente para possibilitar fácil manipulação sobre ela e torná-la responsiva sem a necessidade de mexer na DIV inteira. No entanto, para as informações abaixo, foi criado um componente chamado **'Infos'**, que pode ser observado abaixo da imagem. Isso permite fácil manipulação sobre essas informações sem ter que mexer na DIV inteira.
-![Componente Info](https://media.discordapp.net/attachments/1194334339954131054/1194336237847330936/image.png?ex=65affb4c&is=659d864c&hm=1f56f6061d97262b372db448d011a6608dfa6eb8894c42263518a97ec12ae4ed&=&format=webp&quality=lossless&width=1404&height=561)
+![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/dde2efb5-c18d-4dd7-b8c3-8085f76b429d)
+
 
 #### Confira como ele foi feito abaixo: 
 
@@ -141,7 +144,8 @@ export default function Infos(props) {                                      // P
 
 # 👨‍💻 Componente Card
 #### Bem neste componente temos apenas o código dentro dos card como imagens, nomes e o feedback dos clientes o título acima foi inserido direto no Componente Principal **(App.js)**.
-![Componente Card](https://media.discordapp.net/attachments/1194334339954131054/1194336301902745770/image.png?ex=65affb5c&is=659d865c&hm=eb9cd74751407a921ca9e686ddb9a7210c85598c51be4984e9718238c68d05d1&=&format=webp&quality=lossless&width=1404&height=539)
+![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/15b36c8e-a45c-4a91-8c62-53778203bd58)
+
 
 #### Confira como ele foi feito abaixo: 
 
@@ -166,7 +170,8 @@ export default function Card(props) {      // Parametro Props sendo passado
 
 # 👨‍💻 Componente Mapa
 #### Este componente era pra conter uma vAPI do google** para podemos introduzir o mapa no site, tivemos diversos erros para trabalhar com esta API e acredito que só não tenha funcionado por conta que eu não tenho cartão de credito cadastrado dentro do Google Console Cloud, um programador mais experiente estava me explicando que isso é normal quando trabalhamos com o Console Cloud da Google. 
-![Componente Card](https://media.discordapp.net/attachments/1194334339954131054/1194336348866355332/image.png?ex=65affb67&is=659d8667&hm=fdfa321a56d75d97058d3cfaa9ea3b1f5707dccc2d68ba7ca80eb6992a31b0a3&=&format=webp&quality=lossless&width=1404&height=609)
+![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/8d561b57-c104-44b8-9028-b4cb7f2fec1f)
+
 ####Confira como foi feito abaixo:
 
 ```jsx
@@ -201,7 +206,8 @@ export default function Mapa() {         // Componente Mapa e seu conteudo abaix
 
 # 👨‍💻 Componente Footer
 #### O componente Footer é responsável pela parte inferior do site, que contém as informações de direitos autorais reservados. É uma parte bastante simples de ser feita.
-![Componente Footer](https://media.discordapp.net/attachments/1194334339954131054/1194364761429774406/image.png?ex=65b015dd&is=659da0dd&hm=70c2ee9574bbe17901588da8734c83eb0bf5b2f9d64e961e6696a3a208044ae2&=&format=webp&quality=lossless&width=1404&height=51)
+![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/e072e745-0431-4330-b1d2-fcd9ef310846)
+
 #### Confira abaixo como foi feito:
 
 
