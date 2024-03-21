@@ -1,4 +1,4 @@
-![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/095cfcdc-78d5-4c7f-b6d2-db6b096fb6a8)# 🦷 Dentes Saudáveis
+# 🦷 Dentes Saudáveis
 
 ## 🟢 Status: Finalizado 📅 Publicado: 09/01/2024 🧍‍♂️ Programador: muuhlirø
 
@@ -110,7 +110,7 @@ export default function Texto(props) {           // Componente Texto que recebe 
 ```
 
 #### Um detalhe significativo dentro da aplicação web é que, se o usuário passar o mouse sobre as informações fornecidas, isso fará com que a aplicação tenha uma interação de mudança de cor automaticamente. O usuário entenderá que ali é um elemento no qual ele pode clicar para saber mais sobre o serviço que a empresa oferece.
-![image](https://github.com/pastelzinhoo/DentesSaudaveis/assets/152567365/1771bc35-8fe2-4bdc-a4c2-5d5254dd658e)
+
 
 
 ---
